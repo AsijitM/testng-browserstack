@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class BStackDemoTest5 extends SeleniumTest {
     @Test
     public void addProductToCart() throws Exception {
-        System.out.println("Running Failed ");
+        System.out.println("Running Failed");
         Assert.assertEquals(3, 4);
     }
 }
