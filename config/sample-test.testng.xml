@@ -8,6 +8,7 @@
             <class name="com.browserstack.BStackDemoTest3" />
             <class name="com.browserstack.BStackDemoTest4" />
             <class name="com.browserstack.BStackDemoTest5" />
+            <class name="com.browserstack.BStackDemoTest6" />
         </classes>
     </test>
 </suite>
